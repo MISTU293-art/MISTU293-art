@@ -10,7 +10,7 @@
 
 🎓 B.Tech Computer Science Student  
 🏫 Global Institute of Management and Technology  
-💼 Frontend Developer Intern at CodeSoft  
+💼 Frontend Developer Intern at CodeAlpha  
 
 ✨ Passionate about building web applications  
 🧠 Interested in AI & Machine Learning with Python  
