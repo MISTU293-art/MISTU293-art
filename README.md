@@ -34,6 +34,7 @@
 - Node.js  
 - Express.js  
 - MongoDB  
+-Php
 
 ### 🌿 Currently Learning
 - MERN Stack (MongoDB, Express, React, Node)  
