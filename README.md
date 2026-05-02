@@ -1,61 +1,71 @@
-<h1 align="center">Hi 👋, I'm Mistu</h1>
+<h1 align="center">Hi 👋, I'm Mistu Debnath</h1>
 
 <h3 align="center">
-💻 B.Tech CSE Student | 🚀 Frontend Developer Intern | 🌿 MERN Stack Learner
+💻 B.Tech CSE Student • 🚀 Frontend Developer Intern • 🌱 MERN Stack Learner
 </h3>
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-🎓 B.Tech Computer Science Student  
+🎓 B.Tech in Computer Science Engineering  
 🏫 Global Institute of Management and Technology  
 💼 Frontend Developer Intern at CodeAlpha  
 
-✨ Passionate about building web applications  
-🧠 Interested in AI & Machine Learning with Python  
-💡 Focused on becoming a Full Stack Developer  
+✨ Passionate about Web Development and Problem Solving  
+🧠 Exploring AI & Machine Learning with Python  
+💡 Goal-Oriented Full Stack Developer focused on real-world projects  
 
 ---
 
-## 🛠 Tech Toolbox  
+## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-- 🐘 PHP (Expert)  
-- 🐍 Python (AI / ML)  
-- 💻 C  
-- ☕ Java  
-- 🔷 VB.NET  
+- 🐘 PHP
+- 🐍 Python
+- 💻 C
+- ☕ Java
+- 🔷 VB.NET
 
 ### 🌐 Web Development
-- HTML5  
-- CSS3  
-- JavaScript  
-- Node.js  
-- Express.js  
-- MongoDB  
--Php
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Node.js
+- Express.js
+- MongoDB
+- React.js
+- PHP & MySQL
 
-### 🌿 Currently Learning
-- MERN Stack (MongoDB, Express, React, Node)  
-- Advanced Backend Development  
-- Machine Learning with Python  
-
----
-
-## 🌐 Connect With Me  
-
-🔗 **Website / Portfolio:https://mistudebnath.ryecsm.in 
-📸 Instagram: https://instagram.com/mistu_14112006  
-💼 LinkedIn: https://www.linkedin.com/in/mistu-debnath14112006/  
-📧 Email: mistu14112006@gmail.com  
+### 🌱 Currently Learning
+- MERN Stack Development
+- Advanced Backend Development
+- Machine Learning with Python
+- DevOps & Cloud Basics
 
 ---
 
-### 🎯 Career Goal  
+## 🌐 Connect With Me
 
-To become a skilled Full Stack Developer and AI enthusiast, building impactful real-world solutions.
+🌍 Portfolio:  
+🔗 https://mistudebnath.ryecsm.in
+
+📸 Instagram:  
+🔗 https://instagram.com/mistu_14112006
+
+💼 LinkedIn:  
+🔗 https://www.linkedin.com/in/mistu-debnath14112006/
+
+📧 Email:  
+✉️ mistu14112006@gmail.com
 
 ---
 
-✨ *Code. Learn. Build. Repeat.*
+## 🎯 Career Goal
+
+To become a skilled Full Stack Developer and AI Enthusiast, building impactful and scalable real-world applications.
+
+---
+
+<h3 align="center">✨ Code • Learn • Build • Repeat ✨</h3>
