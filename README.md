@@ -1,67 +1,130 @@
 # Hi 👋, I'm Mistu Debnath
 
-### 💻 B.Tech CSE Student | Frontend Developer Intern | Aspiring Full Stack & AI Developer
+<h3 align="center">
+💻 B.Tech CSE Student | Full-Stack Developer | SaaS Builder | AI & ML Enthusiast
+</h3>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Pursuing B.Tech in Computer Science & Engineering
-🏫 Global Institute of Management and Technology
+🎓 Computer Science & Engineering Student at **Global Institute of Management and Technology**
 
-💼 Frontend Developer Intern at CodeAlpha
+💼 Frontend Developer Intern at **CodeAlpha**
 
-Passionate about building modern web applications and solving real-world problems through technology. I enjoy developing responsive websites, learning new technologies, and exploring Artificial Intelligence and Machine Learning with Python.
+🚀 Co-Founder at **NexEngineer**
+
+I am a passionate developer who loves building real-world applications, scalable backend systems, and SaaS products.
+
+I enjoy transforming ideas into working solutions using modern technologies and continuously exploring **Full-Stack Development, Artificial Intelligence, Machine Learning, and Cloud Technologies**.
+
+Currently building projects with:
+
+* MERN Stack
+* Node.js Backend Systems
+* MongoDB Database Architecture
+* AI-powered applications
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
-* Python
-* Java
-* C
-* PHP
-* VB.NET
-* JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,php,js" />
+</p>
 
-### Frontend Development
+### 🌐 Frontend Development
 
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
-* React.js
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vite" />
+</p>
 
-### Backend Development
+### ⚙️ Backend Development
 
-* Node.js
-* Express.js
-* PHP
-* REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### Database Technologies
+### 🗄️ Database
 
-* MongoDB
-* MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-### Tools & Technologies
+### 🔧 Tools & Platforms
 
-* Git & GitHub
-* VS Code
-* Postman
-* Linux Basics
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 Ease Cure Pharma
+
+A pharmacy management SaaS platform for managing:
+
+* Medicine inventory
+* Billing
+* Staff management
+* Customer booking
+* Stock management
+
+**Tech:** Node.js, Express.js, MongoDB, EJS
+
+---
+
+### 🚀 StartupOS
+
+An operating system for startups to manage:
+
+* Employee management
+* Role-based access control
+* Project management
+* Company operations
+
+**Tech:** Node.js, Express.js, MongoDB, EJS, JWT
+
+---
+
+### 🎓 CourseShare
+
+A student platform for sharing:
+
+* Notes
+* Certificates
+* Workshops
+* Learning resources
+
+Features:
+
+* QR certificate verification
+* Student dashboard
+* Admin management
 
 ---
 
 ## 🌱 Currently Learning
 
-* MERN Stack Development
 * Advanced Backend Development
+* MERN Stack Architecture
+* System Design
 * Machine Learning with Python
-* Cloud Computing & DevOps Fundamentals
+* Cloud & DevOps
 * AI Application Development
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MISTU293-art&show_icons=true&theme=tokyonight"/>
+
+</p>
 
 ---
 
@@ -73,22 +136,17 @@ https://mistudebnath.vercel.app/
 💼 LinkedIn
 https://www.linkedin.com/in/mistu-debnath14112006/
 
-📸 Instagram
-https://instagram.com/mistu_14112006
-
 📧 Email
 [mistu14112006@gmail.com](mailto:mistu14112006@gmail.com)
 
 ---
 
-## 🎯 Career Objective
+## 🎯 My Goal
 
-To become a proficient Full Stack Developer and AI Engineer by building scalable applications, contributing to innovative projects, and continuously improving my technical expertise.
+To become a skilled Full-Stack Engineer and AI Developer by building impactful products, contributing to open-source projects, and solving real-world problems through technology.
 
 ---
 
-### ⚡ Fun Fact
-
-I love transforming ideas into real-world applications through code and continuously learning emerging technologies.
-
-<h3 align="center">✨ Learn • Build • Innovate • Repeat ✨</h3>
+<h3 align="center">
+✨ Learn • Build • Innovate • Repeat ✨
+</h3>
